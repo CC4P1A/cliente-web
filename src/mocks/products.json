@@ -1,0 +1,10 @@
+{
+    "read":[{"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Inka Cola","id":123451,"quant":12,"desc":"Bebida gaseosa Inka Cola"}],
+    "readall":[
+        {"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Coca Cola","id":123451,"quant":12,"desc":"Bebida gaseosa Coca Cola"},
+        {"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Inka Cola","id":123452,"quant":10,"desc":"Bebida gaseosa Inka Cola"},
+        {"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Pepsi","id":123453,"quant":5,"desc":"Bebida gaseosa Pepsi"},
+        {"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Sprite","id":123454,"quant":2,"desc":"Bebida gaseosa Sprite"},
+        {"img":"https://ipsumimg.dakovdev.com/100x100","price":123,"name":"Fanta","id":123455,"quant":1,"desc":"Bebida gaseosa Fanta"}
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "read": {
+        "venta": {
+            "id_sales": 7,
+            "ruc": "1",
+            "cost_total": 1,
+            "name": "1"
+        },
+        "detalle_venta": [
+            {
+                "name_prod": "jabon",
+                "amount": 2,
+                "total": 20,
+                "cost": 10,
+                "id_prod": 1
+            },
+            {
+                "name_prod": "toalla",
+                "amount": 2,
+                "total": 20,
+                "cost": 10,
+                "id_prod": 2
+            },
+            {
+                "name_prod": "crema",
+                "amount": 2,
+                "total": 20,
+                "cost": 10,
+                "id_prod": 3
+            }
+        ],
+        "type": "READ"
+    },
+    "readAll": {
+        "type": "READALL",
+        "ventas": [
+            {
+                "id_sales": 7,
+                "ruc": "123456789",
+                "name": "John Doe",
+                "cost_total": 40,
+                "detalle_venta": [
+                    {
+                        "name_prod": "computer",
+                        "amount": 1,
+                        "total": 1200,
+                        "cost": 1200,
+                        "id_prod": 1
+                    },
+                    {
+                        "name_prod": "keyboard",
+                        "amount": 1,
+                        "total": 220,
+                        "cost": 220,
+                        "id_prod": 2
+                    },
+                    {
+                        "name_prod": "Mouse",
+                        "amount": 2,
+                        "total": 100,
+                        "cost": 50,
+                        "id_prod": 3
+                    }
+                ]
+            }
+        ]
+    }
+}
